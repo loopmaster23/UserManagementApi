@@ -1,4 +1,4 @@
-# User Management API (.NET 7)
+# User Management API (.NET 9)
 
 This project is a RESTful Web API built with ASP.NET Core.
 
